@@ -1,0 +1,1 @@
+Fractal Generator for Kids: A fun and interactive way for children to learn about fractals. Simple controls and colorful designs make it engaging!
